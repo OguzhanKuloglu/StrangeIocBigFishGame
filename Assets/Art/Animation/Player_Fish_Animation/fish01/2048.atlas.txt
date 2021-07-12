@@ -1,0 +1,17 @@
+2048.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+1/1_body
+bounds:2,71,365,1140
+rotate:90
+1/1_fin_left
+bounds:1605,220,275,216
+1/1_fin_right
+bounds:1477,2,275,216
+1/1_tail
+bounds:1144,26,240,331
+rotate:90
+1/1_upper_fin
+bounds:1144,268,168,459
+rotate:90

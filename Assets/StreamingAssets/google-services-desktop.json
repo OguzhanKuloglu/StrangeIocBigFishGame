@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "1083967296389-v175lpnamcurhkir5064o586i44nh3kt.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayVp6YwZKzG9grjZWoR75GcinkcJYrfo"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:1083967296389:ios:4e6255134e7f90ef07eaec", 
+        "android_client_info": {
+          "package_name": "com.roofgames.bigfishgame"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "game-big-fish.appspot.com", 
+    "project_id": "game-big-fish", 
+    "firebase_url": "https://game-big-fish-default-rtdb.firebaseio.com", 
+    "project_number": "1083967296389"
+  }
+}

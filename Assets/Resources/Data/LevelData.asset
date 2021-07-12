@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d723b34c8645a099eff76eaae4f3bf, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  FakeLevelPrefab: {fileID: 7519601758545913417, guid: 113ad3e5b0e1b46ccb2f045afbb3a8be, type: 3}
+  List:
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: dc372c6bbe0b34413abaa308ac0ff269, type: 3}
+    EnemyCount: 3
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 5448807e6b906474689e9f7b1102c0e6, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: dc71bdf654b41584ea9a90e345afc469, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 75cfbbf62f2ed4a428566c1e237b2dc3, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 0aa16f2f5c04e6e43a247dd354744e65, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 9e26b9c1b116fb447ae9d06e63caa232, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: ce916486e80e9664586e96b59c6ac6b8, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: c4e9aa3bdc0695741b542eb56c1b60b8, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 28ca073e1952b02468d9901783e8a37a, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: e5f33d6a657f92f46ad6ec89a72bf11f, type: 3}
+    EnemyCount: 5
+    FishMealCount: 55
+    MapSize: {x: 20, y: 20}
+    Time: 60
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: cde09ba1ef0338145ae67bea9a65dc6c, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: aeca143ab74c5a841bfb1ed7a33b55c2, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 2278efc188d8c99458af49bf76de8082, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: cb7d19475c19d5145b4d1c758c05d721, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 460ebdf6399676240ab31c0a6ea4a871, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: a2c2d42f8424ef1458c2c96e64295a67, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 5054cf5d0000a7f4c93ff6afe459e314, type: 3}
+    EnemyCount: 8
+    FishMealCount: 25
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 71a266a8d58122842944d0d7a23fdd99, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: ee19b443e1b02e4409b7d3e743b6e3d8, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 4a012bb64c2fa18459f0d5a380454dae, type: 3}
+    EnemyCount: 8
+    FishMealCount: 75
+    MapSize: {x: 25, y: 25}
+    Time: 70
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 0c8f20f63efc15a4191f9a2f417dc530, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: f51d458eafe2e864a9caddde2dfbe9d2, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 19071493de68d0d4caf1c8cc858282bc, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 2027854214d89154aa62320409047f3a, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 0b16ea8a03a6e3b47a4936866b5e4f1d, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 9eeb296a95e04a14993662272062419e, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: de0209707b9e03446afb71586bd2d222, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: fad93b1d023c72644ad82062638aad2c, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 4b4e8abe2fed8c646a1ca7b1b239c0f4, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: acd93ac3132014e48bf5d580a7ad19ff, type: 3}
+    EnemyCount: 10
+    FishMealCount: 105
+    MapSize: {x: 30, y: 30}
+    Time: 80
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 78eb8fe40f9317147b86d78b74e38503, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 4591589b4d74d5c44befaf72a326cd0a, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 7629305a040c0644facffb229985ba83, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 7f14657dfb446b2418cea12bd33e01dc, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 4136b4e03d8a76a4cbdc3886ef51d434, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 022b863fac578184daae40d1f131d4af, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: b9b51f623bf789543af39b7a03dfcfb0, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 88d609b57c74eed4a9e14598638f2254, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 5187b64bd0e36404883e7549c87f8f99, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 7f16f5ed46429164482e5cecd069c679, type: 3}
+    EnemyCount: 30
+    FishMealCount: 130
+    MapSize: {x: 35, y: 35}
+    Time: 90
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: ba169475180c1f1429faf43b100bcc44, type: 3}
+    EnemyCount: 15
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 4bc6f4edb1adef4438d1f238ee6b84ee, type: 3}
+    EnemyCount: 15
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: f182a173b03720346b5dc787367f50a2, type: 3}
+    EnemyCount: 15
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 6b0d521a4a363764990255f88390ab19, type: 3}
+    EnemyCount: 15
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 856ae6564790533428c95e794868d1c2, type: 3}
+    EnemyCount: 15
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 25722653315f6a44cb0170ff51f57548, type: 3}
+    EnemyCount: 10
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: df9786c46f6d92c488ae9bc5405111d0, type: 3}
+    EnemyCount: 10
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: d803e48283de8124ab935bc4dbeee5f2, type: 3}
+    EnemyCount: 10
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 25aff6d2e524aa74b968e5900490d372, type: 3}
+    EnemyCount: 10
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  - CameraType: 0
+    Environment: {fileID: 7519601758545913417, guid: 8672bf0189822074e873ccb9255c89ad, type: 3}
+    EnemyCount: 10
+    FishMealCount: 135
+    MapSize: {x: 40, y: 40}
+    Time: 100
+  FeedSpawnTime: 3

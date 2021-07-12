@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88deb63504424f8ca0e3b7ed1689b767, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier: Assembly-CSharp::CD_SaveData
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  PlayerData: {fileID: 11400000, guid: 931309d726e91455ebee3381069bdadd, type: 2}
+  LevelStatusData: {fileID: 11400000, guid: bd43999163e684e1ab17afee9f4b1bf3, type: 2}
+  FirebaseDBData: {fileID: 11400000, guid: 436bcdb2162c74fb59d99a3a56ed3e84, type: 2}
+  PlayerDataPath: 
+  LevelStatusDataPath: 
+  FirebaseDBDataPath: 

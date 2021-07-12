@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52383861b17046669f20242666308a67, type: 3}
+  m_Name: EvolveData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 3139160330299977484, guid: d918c2d73f43b4413b8770dbe6f22e80, type: 3}
+    - {fileID: 3139160330299977484, guid: 4f16f416598a74c00a07468a5d2b598e, type: 3}
+    - {fileID: 5543137578951822843, guid: b32ff39f9e4ba4f4297cd94be4307897, type: 3}
+    - {fileID: 3139160330299977484, guid: 091aa119d936f41d4b4212ae59174bc2, type: 3}
+    - {fileID: 4878979358796752293, guid: 51666836e07324c7196a77d59dd9d660, type: 3}
+    - {fileID: 3139160330299977484, guid: 96115edd49a5146bb97725eb9165cfe1, type: 3}
+    - {fileID: 2477307726449777887, guid: 0b330b9459f204431889e5bb3b3a7aec, type: 3}
+    - {fileID: 3139160330299977484, guid: bb91bde160c5640b3a87a9d3d698a419, type: 3}
+    - {fileID: 6980834886463631217, guid: 3b9d5706252f94908abbd840c68c2f11, type: 3}
+    - {fileID: 3139160330299977484, guid: 61594473d81a5493fae22881f00905e3, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: List
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Assets.Scripts.Enums.EvolveType,
+        Assembly-CSharp],[Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[Assets.Scripts.Enums.EvolveType,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp
+    - Name: MinLevel
+      Entry: 3
+      Data: 0
+    - Name: MaxLevel
+      Entry: 3
+      Data: 9
+    - Name: FishIcon
+      Entry: 6
+      Data: 
+    - Name: Prefab
+      Entry: 10
+      Data: 0
+    - Name: PrefabUnicorn
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 3|Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp
+    - Name: MinLevel
+      Entry: 3
+      Data: 10
+    - Name: MaxLevel
+      Entry: 3
+      Data: 19
+    - Name: FishIcon
+      Entry: 6
+      Data: 
+    - Name: Prefab
+      Entry: 10
+      Data: 2
+    - Name: PrefabUnicorn
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 4|Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp
+    - Name: MinLevel
+      Entry: 3
+      Data: 20
+    - Name: MaxLevel
+      Entry: 3
+      Data: 29
+    - Name: FishIcon
+      Entry: 6
+      Data: 
+    - Name: Prefab
+      Entry: 10
+      Data: 4
+    - Name: PrefabUnicorn
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 5|Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp
+    - Name: MinLevel
+      Entry: 3
+      Data: 30
+    - Name: MaxLevel
+      Entry: 3
+      Data: 39
+    - Name: FishIcon
+      Entry: 6
+      Data: 
+    - Name: Prefab
+      Entry: 10
+      Data: 6
+    - Name: PrefabUnicorn
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 6|Assets.Scripts.Data.Vo.EvolveVo, Assembly-CSharp
+    - Name: MinLevel
+      Entry: 3
+      Data: 40
+    - Name: MaxLevel
+      Entry: 3
+      Data: 49
+    - Name: FishIcon
+      Entry: 6
+      Data: 
+    - Name: Prefab
+      Entry: 10
+      Data: 8
+    - Name: PrefabUnicorn
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

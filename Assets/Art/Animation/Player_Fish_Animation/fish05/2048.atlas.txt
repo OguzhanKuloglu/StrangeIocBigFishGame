@@ -1,0 +1,17 @@
+2048-5.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+5/5_body
+bounds:2,2,1169,1896
+5/5_fin_left
+bounds:1173,702,612,449
+5/5_fin_right
+bounds:1173,88,612,449
+rotate:90
+5/5_tail
+bounds:1173,1153,501,630
+rotate:90
+5/5_upper_fin
+bounds:1173,1656,242,662
+rotate:90

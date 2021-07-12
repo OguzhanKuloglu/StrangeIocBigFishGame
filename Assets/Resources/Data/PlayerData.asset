@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c374046f1222d477ab405983d6628a0e, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  CurrentLevel: 5
+  CurrentScore: 0
+  CurrentPlayingLevel: 5
+  DefaultSpeed: 70
+  CurrentSpeed: 70
+  SpeedFactor: 0
+  RotateSensivity: 0.02
+  ChracterType: 0
+  ProccessValue: 0
+  Scale: 1
+  CurrentSkills: []
+  EvolveType: 1
+  FistLoad: 0
+  TutorialCompleted: 1
+  SkillTutorialCompleted: 1
+  Evolved: 0
+  Music: 1
+  SFX: 1
+  Haptic: 1
+  NoAds: 0

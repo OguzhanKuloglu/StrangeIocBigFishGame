@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e195264ec64c62a6a51f523a4114ee, type: 3}
+  m_Name: FeedData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  List:
+  - Type: 0
+    ContentType: 0
+    EarningProcess: 0
+    EarningScore: 5
+    Prefab: {fileID: 4074446036419737046, guid: 84478f30788ba42d08e9c1b1d59ced29, type: 3}
+  - Type: 0
+    ContentType: 0
+    EarningProcess: 0
+    EarningScore: 5
+    Prefab: {fileID: 3354710833337471574, guid: a8d58e478f37f4a2688562758650d0bf, type: 3}
+  - Type: 0
+    ContentType: 0
+    EarningProcess: 0
+    EarningScore: 5
+    Prefab: {fileID: 5536688549960028268, guid: 604998ae05710441ba226f0daa36cdd5, type: 3}
+  - Type: 0
+    ContentType: 0
+    EarningProcess: 0
+    EarningScore: 5
+    Prefab: {fileID: 3205513121837043954, guid: 6a48d78f8446f4fd58ac69a7801223a0, type: 3}
+  - Type: 0
+    ContentType: 0
+    EarningProcess: 0
+    EarningScore: 5
+    Prefab: {fileID: 5738958497599197871, guid: db76e057abd384715a6ddaf90db03f80, type: 3}
+  - Type: 2
+    ContentType: 1
+    EarningProcess: 0
+    EarningScore: 0
+    Prefab: {fileID: 8434776015436294168, guid: 6d9e210f8a00349acaa534cf2499ff27, type: 3}
+  - Type: 2
+    ContentType: 1
+    EarningProcess: 0
+    EarningScore: 0
+    Prefab: {fileID: 703418883251462038, guid: 31dfc5b59301a4ac9a211af9c16eaa8e, type: 3}
+  - Type: 2
+    ContentType: 1
+    EarningProcess: 0
+    EarningScore: 0
+    Prefab: {fileID: 5618034134806334235, guid: a8bb526421e9b467da3a83598bda7778, type: 3}
+  - Type: 2
+    ContentType: 1
+    EarningProcess: 0
+    EarningScore: 0
+    Prefab: {fileID: 4690067867124436555, guid: 5b11c268b821e4d538aa9ee890695bef, type: 3}

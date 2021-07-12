@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a5073862f514e97bfdd417b7fdc9922, type: 3}
+  m_Name: EnemyData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  List:
+  - ChracterType: 1
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 2718733242738392390, guid: 0bfdd35c9d3ac493396abfad2dd80712, type: 3}
+  - ChracterType: 2
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 6194713581307454126, guid: 636446245365b4b088b664dc75f160e9, type: 3}
+  - ChracterType: 3
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 2192218487680332841, guid: 2c83c95baa2b9428e9febfb3131bd092, type: 3}
+  - ChracterType: 4
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 1488424353983980409, guid: 417b9b0dc6ca3405b9157d22d24b9063, type: 3}
+  - ChracterType: 5
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 9064326023751970042, guid: 06aa0adc8fa9940d8b3ee0240ec15455, type: 3}
+  - ChracterType: 6
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 3420357369949225286, guid: da14099f4941b415a9b8ee5f0a79fb0a, type: 3}
+  - ChracterType: 7
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 6705764978857570262, guid: ceae5390ea987421f832fe28ef307231, type: 3}
+  - ChracterType: 8
+    ProccessValue: 0
+    Scale: 1
+    Prefab: {fileID: 4113373691085213062, guid: 890de5a77abf442eab9dff57a24cd443, type: 3}

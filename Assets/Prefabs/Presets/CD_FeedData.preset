@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CD_FeedData
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 73e195264ec64c62a6a51f523a4114ee, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.SerializedFormat
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.SerializedBytes.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.ReferencedUnityObjects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.SerializedBytesString
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.Prefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.PrefabModificationsReferencedUnityObjects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.PrefabModifications.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: serializationData.SerializationNodes.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[0].Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[0].ContentType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[0].EarningScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[0].EarningScore
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[0].Prefab
+    value: 
+    objectReference: {fileID: 4074446036419737046, guid: 84478f30788ba42d08e9c1b1d59ced29, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[1].Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[1].ContentType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[1].EarningScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[1].EarningScore
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[1].Prefab
+    value: 
+    objectReference: {fileID: 3354710833337471574, guid: a8d58e478f37f4a2688562758650d0bf, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[2].Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[2].ContentType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[2].EarningScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[2].EarningScore
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[2].Prefab
+    value: 
+    objectReference: {fileID: 5536688549960028268, guid: 604998ae05710441ba226f0daa36cdd5, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[3].Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[3].ContentType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[3].EarningScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[3].EarningScore
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[3].Prefab
+    value: 
+    objectReference: {fileID: 3205513121837043954, guid: 6a48d78f8446f4fd58ac69a7801223a0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[4].Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[4].ContentType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[4].EarningScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[4].EarningScore
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[4].Prefab
+    value: 
+    objectReference: {fileID: 5738958497599197871, guid: db76e057abd384715a6ddaf90db03f80, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[5].Type
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[5].ContentType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[5].EarningScale
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[5].EarningScore
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[5].Prefab
+    value: 
+    objectReference: {fileID: 8434776015436294168, guid: 6d9e210f8a00349acaa534cf2499ff27, type: 3}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[6].Type
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[6].ContentType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[6].EarningScale
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[6].EarningScore
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: List.Array.data[6].Prefab
+    value: 
+    objectReference: {fileID: 703418883251462038, guid: 31dfc5b59301a4ac9a211af9c16eaa8e, type: 3}
+  m_ExcludedProperties: []

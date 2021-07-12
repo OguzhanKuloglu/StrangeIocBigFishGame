@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1083967296389-v175lpnamcurhkir5064o586i44nh3kt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1083967296389-v175lpnamcurhkir5064o586i44nh3kt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBayVp6YwZKzG9grjZWoR75GcinkcJYrfo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1083967296389</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.roofgames.bigfishgame</string>
+	<key>PROJECT_ID</key>
+	<string>game-big-fish</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game-big-fish.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1083967296389:ios:4e6255134e7f90ef07eaec</string>
+	<key>DATABASE_URL</key>
+	<string>https://game-big-fish-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

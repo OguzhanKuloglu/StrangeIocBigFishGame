@@ -1,0 +1,16 @@
+2048-3.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+3/3_body
+bounds:2,2,794,1620
+rotate:90
+3/3_fin_left
+bounds:577,990,484,360
+3/3_fin_right
+bounds:1063,990,486,360
+3/3_tail
+bounds:1551,798,441,552
+3/3_upper_fin
+bounds:2,1141,209,573
+rotate:90
